@@ -1,2 +1,4 @@
 m.humoruniv.com#?#div:matches-css(min-height: 100px)
+!누누티비
 ###container > div.view-content:first-child > div.video-long-banner:first-child
+###container > div.view-content:first-child > div.frame-video:nth-child(2) > div.video-play > div.playstart > button.prev-video:first-child
