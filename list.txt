@@ -2,3 +2,19 @@ m.humoruniv.com#?#div:matches-css(min-height: 100px)
 !누누티비
 ###container > div.view-content:first-child > div.video-long-banner:first-child
 ###container > div.view-content:first-child > div.frame-video:nth-child(2) > div.video-play > div.playstart > button.prev-video:first-child
+!인벤
+||upload3.inven.co.kr/upload/2023/09/11/bbs/i8279581561.jpg$domain=inven.co.kr
+inven.co.kr##ul.inven-float-alarm:nth-child(9)
+inven.co.kr###lostarkBody > div.commu-wrap:first-child > section.commu-content.ad-layout:first-child > article:last-child > section.commu-left:first-child > div.left-menu:last-child > div.banner-layout1:first-child
+inven.co.kr###lostarkCalculator
+inven.co.kr###comInvenPoll
+inven.co.kr###comItBanner
+inven.co.kr###commonIconBanner
+inven.co.kr###broadcastSection
+inven.co.kr###cis
+inven.co.kr###lostarkBody > div.commu-wrap:first-child > section.commu-content.ad-layout:first-child > article:last-child > section.commu-left:first-child > div.left-menu:last-child > ul.list:nth-child(14)
+inven.co.kr###lostarkBody > div.commu-wrap:first-child > section.commu-content.ad-layout:first-child > article:last-child > section.commu-left:first-child > div.left-menu:last-child > ul.list:nth-child(12)
+inven.co.kr###lostarkBody > div.commu-wrap:first-child > section.commu-content.ad-layout:first-child > article:last-child > section.commu-left:first-child > div.left-menu:last-child > div.banner-layout2:last-child > a
+inven.co.kr###invenFocus
+inven.co.kr###iBuilderHeader > section.list-wrap.w-50:nth-child(2)
+inven.co.kr###tbArticle > div.articleMain:last-child > div.articleContent:nth-child(2) > div.inventory-section.pcskin:nth-child(22)
